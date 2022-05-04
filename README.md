@@ -1,7 +1,5 @@
 ### Hi there! Olá! 👋
 
-#### Atualmente estou estudando HTML, CSS e JAVASCRIPT.
-
 <div align="center">
   <a href="https://github.com/JonhXC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonhXC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
